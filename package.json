@@ -1,0 +1,23 @@
+{
+  "name": "mind-maps-test-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "how-it-works.js",
+  "scripts": {
+   "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kisanetshshay/Mind-Maps-Test-Case.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kisanetshshay/Mind-Maps-Test-Case/issues"
+  },
+  "homepage": "https://github.com/kisanetshshay/Mind-Maps-Test-Case#readme",
+  "devDependencies": {
+    "jest": "^30.0.2"
+  }
+}
